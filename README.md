@@ -9,8 +9,8 @@ The Sheet - [Mostafa Saad Ibrahim's Sheets](https://docs.google.com/spreadsheets
 Problems solved so far :
 
 | Problem Name | Site Name | Language Used | My AC Solutions |
-
-- | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/677/submission/57800206)|
+| --- | --- | --- | --- |
+| [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/677/submission/57800206)|
 
 - [Anton and Danik](http://codeforces.com/contest/734/problem/A) - CodeForces
 - [Bear and Big Brother](http://codeforces.com/contest/791/problem/A) - CodeForces
