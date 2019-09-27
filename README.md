@@ -12,7 +12,7 @@ Problems solved so far :
 | --- | --- | --- | --- |
 | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/677/submission/57800206)|
 
-- [Anton and Danik](http://codeforces.com/contest/734/problem/A) - CodeForces
+| [Anton and Danik](http://codeforces.com/contest/734/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/734/submission/57884757) |
 - [Bear and Big Brother](http://codeforces.com/contest/791/problem/A) - CodeForces
 - [Team](http://codeforces.com/contest/231/problem/A) - CodeForces
 - [Beautiful Matrix](http://codeforces.com/contest/231/problem/A) - CodeForces
