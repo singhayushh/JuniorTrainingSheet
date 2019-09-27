@@ -28,10 +28,10 @@ Problems solved so far :
 | [New Password](http://codeforces.com/contest/770/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/770/submission/59055850)|
 | [Petya And Strings](http://codeforces.com/contest/112/problem/A) | CodeForces | Java 8 | [Solution Code]()|
 | [Boy or Girl](http://codeforces.com/contest/236/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/236/submission/59385858)|
-| [Word](http://codeforces.com/contest/59/problem/A) | CodeForces | Java 8 | [Solution Code]()|
-| [Word Capitalization](http://codeforces.com/contest/281/problem/A) | CodeForces | Java 8 | [Solution Code]()|
-| [Stones On the Table](http://codeforces.com/contest/266/problem/A) | CodeForces | Java 8 | [Solution Code]()|
-| [Police Recruits](http://codeforces.com/contest/427/problem/A) | CodeForces | Java 8 | [Solution Code]()|
+| [Word](http://codeforces.com/contest/59/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/59/submission/59633742)|
+| [Word Capitalization](http://codeforces.com/contest/281/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/281/submission/59633530)|
+| [Stones On the Table](http://codeforces.com/contest/266/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/266/submission/59542668)|
+| [Police Recruits](http://codeforces.com/contest/427/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/427/submission/59542631)|
 | [Colorful Stones - I](http://codeforces.com/contest/265/problem/A) | CodeForces | C++ 14 | [Solution Code](http://codeforces.com/contest/265/submission/59543093)|
 | [Anton And Letters](http://codeforces.com/contest/443/problem/A) | CodeForces | Java 8 | [Solution Code]()|
 | [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | CodeForces | Java 8 | [Solution Code]()|
