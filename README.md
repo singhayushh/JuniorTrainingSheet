@@ -39,8 +39,7 @@ Problems solved so far :
 | [Helpful Maths](http://codeforces.com/contest/339/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/339/submission/61178955)|
 | [Bit++](http://codeforces.com/contest/282/problem/A) | CodeForces | Java 8 | [Solution Code]()|
 | [Case of the zero and the ones](http://codeforces.com/contest/556/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/556/submission/59544154)|
-
-
+| [Case of the zero and the ones](http://codeforces.com/contest/556/problem/A) | CodeForces | Java 8 | [Solution Code](| [Black Square](http://codeforces.com/contest/556/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/556/submission/59544154)|)|
 
 
 
