@@ -40,5 +40,5 @@ Problems solved so far :
 | [Bit++](http://codeforces.com/contest/282/problem/A) | CodeForces | Java 8 | [Solution Code]()|
 | [Case of the zero and the ones](http://codeforces.com/contest/556/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/556/submission/59544154)|
 
-### "Thank you!"
+" Thank you! "
 [Ayush](https://github.com/DeathNaughT-GitHub).
