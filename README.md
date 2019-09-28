@@ -2,8 +2,7 @@
 
 This repository contains my personal coding sheet problem solutions
 
-The Sheet - [Mostafa Saad Ibrahim's Sheets](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing)
-Remember to make a copy of this sheet before using.
+The Sheet - [Mostafa Saad Ibrahim's Sheets](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing)*** Remember to make a copy of this sheet before using.
 
 It's and awesome sheet containing some 950 - 1000 problems from various sites like CodeForces, CodeChef, UVA, TopCoder etc etc.
 It will never let you remain idle ;)
