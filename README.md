@@ -2,7 +2,8 @@
 
 This repository contains my personal coding sheet problem solutions
 
-The Sheet - [Mostafa Saad Ibrahim's Sheets](https://docs.google.com/spreadsheets/d/1SYsihU8c29GM8dsyZdniAbrLKSHLHYUZrguvOok3B1s/edit?usp=sharing)
+The Sheet - [Mostafa Saad Ibrahim's Sheets](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing)
+Remember to make a copy of this sheet before using.
 
 It's and awesome sheet containing some 950 - 1000 problems from various sites like CodeForces, CodeChef, UVA, TopCoder etc etc.
 It will never let you remain idle ;)
@@ -41,6 +42,7 @@ Problems solved so far :
 | [Case of the zero and the ones](http://codeforces.com/contest/556/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/556/submission/59544154)|
 | [Black Square](http://codeforces.com/contest/431/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/431/submission/61389574)|)|
 | [Night At The Museum](http://codeforces.com/contest/731/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/731/submission/61446524)|)|
+| [Games](http://codeforces.com/contest/268/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/268/submission/61447233)|)|
 
 
 
