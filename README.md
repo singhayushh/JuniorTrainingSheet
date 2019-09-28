@@ -42,6 +42,8 @@ Problems solved so far :
 | [Black Square](http://codeforces.com/contest/431/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/431/submission/61389574)|)|
 | [Night At The Museum](http://codeforces.com/contest/731/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/731/submission/61446524)|)|
 | [Games](http://codeforces.com/contest/268/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/268/submission/61447233)|)|
+| [Buy A Shovel](https://codeforces.com/contest/732/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/732/submission/61448078)|)|
+
 
 
 
