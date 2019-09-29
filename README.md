@@ -46,7 +46,7 @@ Problems solved so far :
 | [Is Your HorseShoe on the other Roof?](https://codeforces.com/contest/228/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/228/submission/61448179)|)|
 | [Die Roll](https://codeforces.com/contest/9/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/9/submission/61459770)|)|
 | [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/294/submission/61465881)|)|
-
+| [Juicer](http://codeforces.com/contest/709/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/709/submission/61470532)|)|
 
 *Thank you!*
 
