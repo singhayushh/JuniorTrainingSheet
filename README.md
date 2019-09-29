@@ -45,10 +45,7 @@ Problems solved so far :
 | [Buy A Shovel](https://codeforces.com/contest/732/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/732/submission/61448078)|)|
 | [Is Your HorseShoe on the other Roof?](https://codeforces.com/contest/228/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/228/submission/61448179)|)|
 | [Die Roll](https://codeforces.com/contest/9/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/9/submission/61459770)|)|
-
-
-
-
+| [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/294/submission/61465881)|)|
 
 
 *Thank you!*
