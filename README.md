@@ -34,7 +34,7 @@ Problems solved so far :
 | [Police Recruits](http://codeforces.com/contest/427/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/427/submission/59542631)|
 | [Colorful Stones - I](http://codeforces.com/contest/265/problem/A) | CodeForces | C++ 14 | [Solution Code](http://codeforces.com/contest/265/submission/59543093)|
 | [Anton And Letters](http://codeforces.com/contest/443/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/443/submission/61471403)|
-| [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | CodeForces | Java 8 | [Solution Code]()|
+| [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/71/submission/61472131)|
 | [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | CodeForces | C++ 14 | [Solution Code](http://codeforces.com/contest/686/submission/59575683)|
 | [Helpful Maths](http://codeforces.com/contest/339/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/339/submission/61178955)|
 | [Bit++](http://codeforces.com/contest/282/problem/A) | CodeForces | Java 8 | [Solution Code]()|
