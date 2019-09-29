@@ -26,7 +26,7 @@ Problems solved so far :
 | [Carrot Cakes](http://codeforces.com/contest/799/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/799/submission/58989548)|
 | [Team Olympiad](http://codeforces.com/contest/490/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/490/submission/59107747)|
 | [New Password](http://codeforces.com/contest/770/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/770/submission/59055850)|
-| [Petya And Strings](http://codeforces.com/contest/112/problem/A) | CodeForces | Java 8 | [Solution Code]()|
+| [Petya And Strings](http://codeforces.com/contest/112/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/112/submission/59632837)|
 | [Boy or Girl](http://codeforces.com/contest/236/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/236/submission/59385858)|
 | [Word](http://codeforces.com/contest/59/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/59/submission/59633742)|
 | [Word Capitalization](http://codeforces.com/contest/281/problem/A) | CodeForces | Java 8 | [Solution Code](http://codeforces.com/contest/281/submission/59633530)|
