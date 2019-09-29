@@ -44,6 +44,8 @@ Problems solved so far :
 | [Games](http://codeforces.com/contest/268/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/268/submission/61447233)|)|
 | [Buy A Shovel](https://codeforces.com/contest/732/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/732/submission/61448078)|)|
 | [Is Your HorseShoe on the other Roof?](https://codeforces.com/contest/228/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/228/submission/61448179)|)|
+| [Die Roll](https://codeforces.com/contest/9/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/9/submission/61459770)|)|
+
 
 
 
