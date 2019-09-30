@@ -47,12 +47,13 @@ Problems solved so far :
 | [Die Roll](https://codeforces.com/contest/9/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/9/submission/61459770)|)|
 | [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/294/submission/61465881)|)|
 | [Juicer](http://codeforces.com/contest/709/problem/A) | CodeForces | Java 8 | [Solution Code](https://codeforces.com/contest/709/submission/61470532)|)|
-| [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051) | UVA | C++ 14 | **Note Below |
+| [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051) | UVA | C++ 14 | [Note Below](#Note) |
 | [Product](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1047) | CodeForces | Java 8 | **Note Below |
 
 <br />
 <br />
-Note : The Solutions submitted in UVA are not available for viewing. So in case you get stuck with any problem, DM me on any social media platform, I'll help you.
+### Note 
+The Solutions submitted in UVA are not available for viewing. So in case you get stuck with any problem, DM me on any social media platform, I'll help you.
 <br />
 <br />
 
