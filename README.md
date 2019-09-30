@@ -52,7 +52,7 @@ Problems solved so far :
 
 <br />
 <br />
-### Note 
+###Note 
 The Solutions submitted in UVA are not available for viewing. So in case you get stuck with any problem, DM me on any social media platform, I'll help you.
 <br />
 <br />
