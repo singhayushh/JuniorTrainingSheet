@@ -50,8 +50,6 @@ Problems solved so far :
 | [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051) | UVA | C++ 14 | [Note Below](#Note) |
 | [Product](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1047) | CodeForces | Java 8 | [Note Below](#Note) |
 
-<br />
-<br />
 ### Note 
 The Solutions submitted in UVA are not available for viewing. So in case you get stuck with any problem, DM me on any social media platform, I'll help you.
 <br />
