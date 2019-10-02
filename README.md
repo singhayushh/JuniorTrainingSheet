@@ -1,6 +1,6 @@
 # Coding-Sheet
 
-This repository contains my personal coding sheet problem solutions
+This repository contains my personal solutions to the coding sheet problems set by none other than [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/). 
 
 The Sheet - [Mostafa Saad Ibrahim's Sheets](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing) <br />Remember to make a copy of this sheet before using.
 
