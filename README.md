@@ -108,7 +108,7 @@ Problems solved so far :
 | [The Playboy Chimp](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552) | UVA |
 | [Pipeline](http://codeforces.com/contest/287/problem/B) | CodeForces |
 | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | CodeForces |
-| [Aggressive cows[(http://www.spoj.com/problems/AGGRCOW/)] | SPOJ |
+| [Aggressive cows](http://www.spoj.com/problems/AGGRCOW/)] | SPOJ |
 
 ### Note 
 The Solutions submitted in UVA are not available for viewing. So in case you get stuck with any problem, DM me on any social media platform, I'll help you.
