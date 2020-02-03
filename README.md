@@ -14,6 +14,7 @@ Happy Coding!
 Problems solved so far :
 
 | Problem Name | Site Name | My Solution |
+| :--: | :--: | :--: |
 | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CodeForces |
 | [Anton and Danik](http://codeforces.com/contest/734/problem/A) | CodeForces |
 | [Bear and Big Brother](http://codeforces.com/contest/791/problem/A) | CodeForces |
