@@ -13,7 +13,7 @@ Happy Coding!
 
 Problems solved so far :
 
-| Problem Name | <img width=100/>Site<img width=100/> | My Solution |
+| Problem Name | <img width=100/>Site<img width=100/> | <img width=50/>My Solution<img width=50/> |
 | :--: | :--: | :--: |
 | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/677/submission/70089889) |
 | [Anton and Danik](http://codeforces.com/contest/734/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/734/submission/70089990) |
