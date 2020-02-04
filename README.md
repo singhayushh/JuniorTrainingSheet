@@ -54,60 +54,60 @@ Problems solved so far :
 | [Presents](http://codeforces.com/contest/136/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/136/submission/70094003) |
 | [Lineland Mail](http://codeforces.com/contest/567/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/567/submission/70092597) |
 | [Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/766/submission/70092875) |
-| [Snacktower](http://codeforces.com/problemset/problem/767/A) | CodeForces | [CODE]() |
-| [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | CodeForces | [CODE]() |
-| [Next Round](http://codeforces.com/contest/158/problem/A) | CodeForces | [CODE]() |
-| [Bit++](http://codeforces.com/contest/282/problem/A) | CodeForces | [CODE]() |
+| [Snacktower](http://codeforces.com/problemset/problem/767/A) | CodeForces | Unsolved |
+| [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | CodeForces | Unsolved |
+| [Next Round](http://codeforces.com/contest/158/problem/A) | CodeForces | Unsolved |
+| [Bit++](http://codeforces.com/contest/282/problem/A) | CodeForces | Unsolved |
 | [Young Physicist](http://codeforces.com/contest/69/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/69/submission/70093007) |
 | [Pangram](http://codeforces.com/contest/520/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/520/submission/70092975) |
-| [Twins](http://codeforces.com/contest/160/problem/A) | CodeForces | [CODE]() |
+| [Twins](http://codeforces.com/contest/160/problem/A) | CodeForces | Unsolved |
 | [Keyboard](http://codeforces.com/contest/474/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/474/submission/70092933) |
 | [The Seasonal War](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=288) | UVA | [CODE](#Note) |
 | [Marcus](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1393) | UVA | [CODE](#Note) |
 | [Battleships](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3104) | UVA | [CODE](#Note) |
-| [Forming Teams](http://codeforces.com/contest/216/problem/B) | CodeForces | [CODE]() |
+| [Forming Teams](http://codeforces.com/contest/216/problem/B) | CodeForces | Unsolved |
 | [Hierarchy](http://www.spoj.com/problems/MAKETREE/)	 | SPOJ | [CODE](#Note) |
 | [Ordering Tasks](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1246) | UVA |	[CODE](#Note) |
 | [Even Odds](http://codeforces.com/contest/318/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/318/submission/70093640) |
 | [I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/469/submission/70093090) |
-| [Is it rated?](http://codeforces.com/contest/807/problem/A) | CodeForces | [CODE]() |
-| [Olesya and Rodion](http://codeforces.com/contest/584/problem/A) | CodeForces | [CODE]() |
+| [Is it rated?](http://codeforces.com/contest/807/problem/A) | CodeForces | Unsolved |
+| [Olesya and Rodion](http://codeforces.com/contest/584/problem/A) | CodeForces | Unsolved |
 | [String Task](http://codeforces.com/contest/118/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/118/submission/70093139) |
 | [Translation](http://codeforces.com/contest/41/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/41/submission/70115380) |
 | [Case of the Zeros and Ones](http://codeforces.com/contest/556/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/556/submission/70093709) |
 | [Football](http://codeforces.com/contest/43/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/43/submission/70114408) |
 | [Brain's Photos](http://codeforces.com/contest/707/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/707/submission/70111548) |
 | [Dubstep](http://codeforces.com/contest/208/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/208/submission/70112902) |
-| [Wasted Time](http://codeforces.com/contest/127/problem/A) | CodeForces | [CODE]() |
+| [Wasted Time](http://codeforces.com/contest/127/problem/A) | CodeForces | Unsolved |
 | [Points in Figures: Rectangles](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=417) | UVA | [CODE](#Note) |
-| [Overlapping Rectangles](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=401) | UVA | [CODE]() |
-| [Fancy Fence](http://codeforces.com/contest/270/problem/A) | CodeForces | [CODE]() |
-| [Pouring Rain](http://codeforces.com/contest/667/problem/A) | CodeForces | [CODE]() |
+| [Overlapping Rectangles](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=401) | UVA | Unsolved |
+| [Fancy Fence](http://codeforces.com/contest/270/problem/A) | CodeForces | Unsolved |
+| [Pouring Rain](http://codeforces.com/contest/667/problem/A) | CodeForces | Unsolved |
 | [Fourth Point !!](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1183) | UVA | [CODE](#Note) |
 | [Valera and X](http://codeforces.com/contest/404/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/404/submission/70149359) |
 | [Arpa’s hard exam and Mehrdad’s naive cheat](http://codeforces.com/contest/742/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/742/submission/70149892) |
 | [Calculating Function](http://codeforces.com/contest/486/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/486/submission/70150051) |
-| [Theatre Square](http://codeforces.com/contest/1/problem/A) | CodeForces | [CODE]() |
-| [Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A) | CodeForces | [CODE]() |
-| [Panoramix's Prediction](http://codeforces.com/contest/80/problem/A) | CodeForces | [CODE]() |
-| [Counterexample](http://codeforces.com/contest/483/problem/A) | CodeForces | [CODE]() |
-| [Good Number](http://codeforces.com/contest/365/problem/A) | CodeForces | [CODE]() |
-| [Dice Tower](http://codeforces.com/contest/225/problem/A) | CodeForces | [CODE]() |
-| [Alyona and Numbers](http://codeforces.com/contest/682/problem/A) | CodeForces |  [CODE]() |
-| [Mountain Scenery](http://codeforces.com/contest/218/problem/A) | CodeForces | [CODE]() |
-| [Help Vasilisa the Wise 2](http://codeforces.com/contest/143/problem/A) | CodeForces | [CODE]() |
+| [Theatre Square](http://codeforces.com/contest/1/problem/A) | CodeForces | Unsolved |
+| [Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A) | CodeForces | Unsolved |
+| [Panoramix's Prediction](http://codeforces.com/contest/80/problem/A) | CodeForces | Unsolved |
+| [Counterexample](http://codeforces.com/contest/483/problem/A) | CodeForces | Unsolved |
+| [Good Number](http://codeforces.com/contest/365/problem/A) | CodeForces | Unsolved |
+| [Dice Tower](http://codeforces.com/contest/225/problem/A) | CodeForces | Unsolved |
+| [Alyona and Numbers](http://codeforces.com/contest/682/problem/A) | CodeForces |  Unsolved |
+| [Mountain Scenery](http://codeforces.com/contest/218/problem/A) | CodeForces | Unsolved |
+| [Help Vasilisa the Wise 2](http://codeforces.com/contest/143/problem/A) | CodeForces | Unsolved |
 | [Chewbaсca and Number](http://codeforces.com/contest/514/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/514/submission/70134946) |
 | [Ksenia and Pan Scales](http://codeforces.com/contest/382/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/382/submission/70143628) |
 | [Launch of Collider](http://codeforces.com/contest/699/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/699/submission/70148326) |
-| [Polo the Penguin and Segments](http://codeforces.com/contest/289/problem/A) | CodeForces | [CODE]() |
+| [Polo the Penguin and Segments](http://codeforces.com/contest/289/problem/A) | CodeForces | Unsolved |
 | [IQ Test](http://codeforces.com/contest/287/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/287/submission/70133825) |
 | [Yaroslav and Permutations](http://codeforces.com/contest/296/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/296/submission/70132966) |
 | [Laptops](http://codeforces.com/contest/456/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/456/submission/70132535) |
 | [Snow Footprints](http://codeforces.com/contest/298/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/298/submission/70129158) |
 | [Raising Bacteria](http://codeforces.com/contest/579/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/579/submission/70122904) |
 | [The Playboy Chimp](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552) | UVA | [CODE](#Note) |
-| [Pipeline](http://codeforces.com/contest/287/problem/B) | CodeForces | [CODE]() |
-| [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | CodeForces | [CODE]() |
+| [Pipeline](http://codeforces.com/contest/287/problem/B) | CodeForces | Unsolved |
+| [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | CodeForces | Unsolved |
 | [Aggressive cows](http://www.spoj.com/problems/AGGRCOW/) | SPOJ | [CODE](#Note) |
 
 ### Note 
