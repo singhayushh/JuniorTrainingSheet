@@ -57,7 +57,7 @@ Problems solved so far :
 | [Snacktower](http://codeforces.com/problemset/problem/767/A) | CodeForces | Unsolved |
 | [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | CodeForces | Unsolved |
 | [Next Round](http://codeforces.com/contest/158/problem/A) | CodeForces | Unsolved |
-| [Bit++](http://codeforces.com/contest/282/problem/A) | CodeForces | Unsolved |
+| [Bit++](http://codeforces.com/contest/282/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/282/submission/70314232) |
 | [Young Physicist](http://codeforces.com/contest/69/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/69/submission/70093007) |
 | [Pangram](http://codeforces.com/contest/520/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/520/submission/70092975) |
 | [Twins](http://codeforces.com/contest/160/problem/A) | CodeForces | Unsolved |
