@@ -13,7 +13,7 @@ Happy Coding!
 
 Problems solved so far :
 
-| Problem Name | ‎‎‎‎Site Name‎‎‎‎ | ‎‎‎My Solution‎‎‎ |
+| Problem Name | &nbsp;&nbsp;&nbsp;&nbsp;Site Name&nbsp;&nbsp;&nbsp;&nbsp; | My Solution |
 | :--: | :--: | :--: |
 | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/677/submission/70089889) |
 | [Anton and Danik](http://codeforces.com/contest/734/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/734/submission/70089990) |
