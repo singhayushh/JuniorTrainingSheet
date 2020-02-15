@@ -13,6 +13,8 @@ Happy Coding!
 
 Problems solved so far :
 
+Type : A
+
 | Number | Problem Name | <img width=100/>Site<img width=100/> | <img width=22.5/>My Solution<img width=22.5/> |
 | :--: | :--: | :--: | :--: |
 | 1 | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CodeForces | [CODE](https://codeforces.com/contest/677/submission/70089889) |
