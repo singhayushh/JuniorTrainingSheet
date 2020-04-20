@@ -112,6 +112,46 @@ Type : A
 | 93 | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | CodeForces | Unsolved |
 | 94 | [Aggressive cows](http://www.spoj.com/problems/AGGRCOW/) | SPOJ | [CODE](#Note) |
 
+Type B : 
+
+| Number | Problem Name | <img width=100/>Site<img width=100/> | <img width=22.5/>My Solution<img width=22.5/> |
+| :--: | :--: | :--: | :--: |
+| 95 | [Decoding](http://codeforces.com/contest/746/problem/B) | CodeForces | [CODE]() |
+| 96 | [Petya and Countryside](http://codeforces.com/contest/66/problem/B) | CodeForces | [CODE]() |
+| 97 | [Bear and Finding Criminals](http://codeforces.com/contest/680/problem/B) | CodeForces | [CODE]() |
+| 98 | [Burglar and Matches](http://codeforces.com/contest/16/problem/B) | CodeForces | [CODE]() |
+| 99 | [Caisa and Pylons](http://codeforces.com/contest/463/problem/B) | CodeForces | [CODE]() |
+| 100 | [Sum of Digits](http://codeforces.com/contest/102/problem/B) | CodeForces | [CODE]() |
+| 101 | [Coins](http://codeforces.com/contest/47/problem/B) | CodeForces | [CODE]() |
+| 102 | [Vanya and Lanterns](http://codeforces.com/contest/492/problem/B) | CodeForces | [CODE]() |
+| 103 | [Effective Approach](http://codeforces.com/contest/277/problem/B) | CodeForces | [CODE]() |
+| 104 | [Easter Eggs](http://codeforces.com/contest/78/problem/B) | CodeForces | [CODE]() |
+| 105 | [Big Mod](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=310) | UVA | [CODE](#Note) |
+| 106 | [Combinations](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=305) | UVA | [CODE](#Note) |
+| 107 | [Pi](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=353) | UVA | [CODE](#Note) |
+| 108 | [Adding Reversed Numbers](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=654) | UVA | [CODE](#Note) |
+| 109 | [Taxi](http://acm.timus.ru/problem.aspx?space=1&num=1607) | Timus | [CODE](#Note) |
+| 110 | [The Drunk Jailer](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=558) | Live Archive | [CODE](#Note) |
+| 111 | [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | CodeForces | [CODE]() |
+| 112 | [President's Office](http://codeforces.com/contest/6/problem/B) | CodeForces | [CODE]() |
+| 113 | [Fence](http://codeforces.com/contest/363/problem/B) | CodeForces | [CODE]() |
+| 114 | [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | CodeForces | [CODE]() |
+| 115 | [Sort the Array](http://codeforces.com/contest/451/problem/B) | CodeForces | [CODE]() |
+| 116 | [Devu, the Dumb Guy](http://codeforces.com/contest/439/problem/B) | CodeForces | [CODE]() |
+| 117 | [Summer sell-off](http://codeforces.com/contest/810/problem/B) | CodeForces | [CODE]() |
+| 118 | [Colorful Field](http://codeforces.com/contest/79/problem/B) | CodeForces | [CODE]() |
+| 119 | [Keyboard](http://codeforces.com/contest/88/problem/B) | CodeForces | [CODE]() |
+| 120 | [Mahmoud and a Triangle](http://codeforces.com/contest/766/problem/B) | CodeForces | [CODE]() |
+| 121 | [Find The Bone](http://codeforces.com/contest/796/problem/B) | CodeForces | [CODE]() |
+| 122 | [CSUMQ]() | SPOJ | [CODE]() |
+| 123 | [Localised Summing]() | UVA | [CODE]() |
+| 124 | [Karen and Coffee](http://codeforces.com/contest/816/problem/B) | CodeForces | [CODE]() |
+
+
+
+### TODO
+Add solution links to all type B problems when back to hostel after Quarantine.
+
 ### Note 
 Solutions submitted in UVA and SPOJ are not available for public viewing.
 <br />
