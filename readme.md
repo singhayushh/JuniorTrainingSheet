@@ -116,36 +116,36 @@ Type B :
 
 | Number | Problem Name | <img width=100/>Site<img width=100/> | <img width=22.5/>My Solution<img width=22.5/> |
 | :--: | :--: | :--: | :--: |
-| 95 | [Decoding](http://codeforces.com/contest/746/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/746/submission/70235991) |
-| 96 | [Petya and Countryside](http://codeforces.com/contest/66/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/66/submission/71116381) |
-| 97 | [Bear and Finding Criminals](http://codeforces.com/contest/680/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/680/submission/71152402) |
+| 95 | [Decoding](http://codeforces.com/contest/746/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/746/submission/111527178) |
+| 96 | [Petya and Countryside](http://codeforces.com/contest/66/problem/B) | CodeForces | [CODE](http://codeforces.com/contest/66/submission/111527788) |
+| 97 | [Bear and Finding Criminals](http://codeforces.com/contest/680/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/680/submission/111527983) |
 | 98 | [Burglar and Matches](http://codeforces.com/contest/16/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/16/submission/71170508) |
-| 99 | [Caisa and Pylons](http://codeforces.com/contest/463/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/463/submission/71173639) |
-| 100 | [Sum of Digits](http://codeforces.com/contest/102/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/102/submission/71176236) |
-| 101 | [Coins](http://codeforces.com/contest/47/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/47/submission/71439501) |
-| 102 | [Vanya and Lanterns](http://codeforces.com/contest/492/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/492/submission/71441455) |
-| 103 | [Effective Approach](http://codeforces.com/contest/277/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/227/submission/71442041) |
-| 104 | [Easter Eggs](http://codeforces.com/contest/78/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/78/submission/71240743) |
+| 99 | [Caisa and Pylons](http://codeforces.com/contest/463/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/463/submission/111528192) |
+| 100 | [Sum of Digits](http://codeforces.com/contest/102/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/102/submission/111528284) |
+| 101 | [Coins](http://codeforces.com/contest/47/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/47/submission/111528371) |
+| 102 | [Vanya and Lanterns](http://codeforces.com/contest/492/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/492/submission/111528516) |
+| 103 | [Effective Approach](http://codeforces.com/contest/277/problem/B) | CodeForces | [CODE](https://codeforces.com/problemset/submission/227/111528758) |
+| 104 | [Easter Eggs](http://codeforces.com/contest/78/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/78/submission/111528845) |
 | 105 | [Big Mod](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=310) | UVA | [CODE](#Note) |
 | 106 | [Combinations](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=305) | UVA | [CODE](#Note) |
 | 107 | [Pi](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=353) | UVA | [CODE](#Note) |
 | 108 | [Adding Reversed Numbers](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=654) | UVA | [CODE](#Note) |
 | 109 | [Taxi](http://acm.timus.ru/problem.aspx?space=1&num=1607) | Timus | [CODE](#Note) |
 | 110 | [The Drunk Jailer](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=558) | Live Archive | [CODE](#Note) |
-| 111 | [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/433/submission/74799740) |
-| 112 | [President's Office](http://codeforces.com/contest/6/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/6/submission/75057310) |
-| 113 | [Fence](http://codeforces.com/contest/363/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/363/submission/77277165) |
-| 114 | [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/688/submission/77278365) |
-| 115 | [Sort the Array](http://codeforces.com/contest/451/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/451/submission/75184061) |
-| 116 | [Devu, the Dumb Guy](http://codeforces.com/contest/439/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/439/submission/77280490) |
-| 117 | [Summer sell-off](http://codeforces.com/contest/810/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/810/submission/77341441) |
-| 118 | [Colorful Field](http://codeforces.com/contest/79/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/79/submission/77349026) |
+| 111 | [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/433/submission/111528991) |
+| 112 | [President's Office](http://codeforces.com/contest/6/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/6/submission/111529070) |
+| 113 | [Fence](http://codeforces.com/contest/363/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/363/submission/111529124) |
+| 114 | [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/688/submission/111529210) |
+| 115 | [Sort the Array](http://codeforces.com/contest/451/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/451/submission/111529330) |
+| 116 | [Devu, the Dumb Guy](http://codeforces.com/contest/439/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/439/submission/111529335) |
+| 117 | [Summer sell-off](http://codeforces.com/contest/810/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/810/submission/111529489) |
+| 118 | [Colorful Field](http://codeforces.com/contest/79/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/79/submission/111529540) |
 | 119 | [Keyboard](http://codeforces.com/contest/88/problem/B) | CodeForces | CODE |
 | 120 | [Mahmoud and a Triangle](http://codeforces.com/contest/766/problem/B) | CodeForces | CODE |
 | 121 | [Find The Bone](http://codeforces.com/contest/796/problem/B) | CodeForces | CODE |
 | 122 | [CSUMQ]() | SPOJ | CODE |
 | 123 | [Localised Summing]() | UVA | CODE |
-| 124 | [Karen and Coffee](http://codeforces.com/contest/816/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/816/submission/75050774) |
+| 124 | [Karen and Coffee](http://codeforces.com/contest/816/problem/B) | CodeForces | [CODE](https://codeforces.com/contest/816/submission/111529587) |
 
 
 
